@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FruitsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 58ee6f58d34fc9b4e9b0ff43281f98b7, type: 3}
+    - {fileID: 2800000, guid: 0326bd5948cf2874d93ada80af7d1936, type: 3}
+    - {fileID: 2800000, guid: 84705c6d4e5d13a4ba95dd9d25e27127, type: 3}
+    - {fileID: 2800000, guid: 496cc161f84443e41a17f21c3d03e525, type: 3}
+    - {fileID: 2800000, guid: 4b6a1cfec889b6543aa3d615d4fbec53, type: 3}
+    - {fileID: 2800000, guid: a52d3eed5857f33498c82f2bcbd674d6, type: 3}
+    - {fileID: 2800000, guid: 592fb13ed0fbba24b97bf31c8579d9f0, type: 3}
+    - {fileID: 2800000, guid: c4e865d01e4ba2540807a0202dcb98ec, type: 3}
+    - {fileID: 2800000, guid: 441d65a6640201946b0dea0c575d96f8, type: 3}
+    totalSpriteSurfaceArea: 147456
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c4e865d01e4ba2540807a0202dcb98ec, type: 3}
+  - {fileID: 21300000, guid: 496cc161f84443e41a17f21c3d03e525, type: 3}
+  - {fileID: 21300000, guid: 441d65a6640201946b0dea0c575d96f8, type: 3}
+  - {fileID: 21300000, guid: 58ee6f58d34fc9b4e9b0ff43281f98b7, type: 3}
+  - {fileID: 21300000, guid: 0326bd5948cf2874d93ada80af7d1936, type: 3}
+  - {fileID: 21300000, guid: 84705c6d4e5d13a4ba95dd9d25e27127, type: 3}
+  - {fileID: 21300000, guid: a52d3eed5857f33498c82f2bcbd674d6, type: 3}
+  - {fileID: 21300000, guid: 592fb13ed0fbba24b97bf31c8579d9f0, type: 3}
+  - {fileID: 21300000, guid: 4b6a1cfec889b6543aa3d615d4fbec53, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - iconfinder_Strawberry_2137821
+  - iconfinder_Kiwi_2137826
+  - iconfinder_Watermelon_2137822
+  - iconfinder_Apple_2137818
+  - iconfinder_Cherry_2137828
+  - iconfinder_Grape_2137827
+  - iconfinder_Orange_2137820
+  - iconfinder_Pear_2137823
+  - iconfinder_Lemon_2137825 (1)
+  m_RenderDataMap: {}
+  m_Tag: FruitsAtlas
+  m_IsVariant: 0
